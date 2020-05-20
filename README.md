@@ -17,10 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src='flutter_01.png' width=250>
-<img src='flutter_02.png' width=250>
+<img src='flutter_01.png' width=250><img src='flutter_02.png' width=250>
 
 ## Special thanks to <3
 
 
-[Fire UI](https://www.uplabs.com/fireui) about the UI [Job Finder App Free](https://www.uplabs.com/posts/job-finder-app-free)
+[Fire UI](https://www.uplabs.com/fireui) by app design [Job Finder App Free](https://www.uplabs.com/posts/job-finder-app-free)
